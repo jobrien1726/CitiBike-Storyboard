@@ -5,14 +5,25 @@ My original plan for this assignemnt was to download 12 months worth of the 2019
 Links to Original Citibike Data Used:
 
 jan2019: https://s3.amazonaws.com/tripdata/201901-citibike-tripdata.csv.zip
+
 feb2019: https://s3.amazonaws.com/tripdata/201902-citibike-tripdata.csv.zip
+
 mar2019: https://s3.amazonaws.com/tripdata/201903-citibike-tripdata.csv.zip
+
 apr2019: https://s3.amazonaws.com/tripdata/201904-citibike-tripdata.csv.zip
+
 may2019: https://s3.amazonaws.com/tripdata/201905-citibike-tripdata.csv.zip
+
 jun2019: https://s3.amazonaws.com/tripdata/201906-citibike-tripdata.csv.zip
+
 jul2019: https://s3.amazonaws.com/tripdata/201907-citibike-tripdata.csv.zip
+
 aug2019: https://s3.amazonaws.com/tripdata/201908-citibike-tripdata.csv.zip
+
 sept2019: https://s3.amazonaws.com/tripdata/201909-citibike-tripdata.csv.zip
+
 oct2019: https://s3.amazonaws.com/tripdata/201910-citibike-tripdata.csv.zip
+
 nov2019: https://s3.amazonaws.com/tripdata/201911-citibike-tripdata.csv.zip
+
 dec2019: https://s3.amazonaws.com/tripdata/201912-citibike-tripdata.csv.zip
