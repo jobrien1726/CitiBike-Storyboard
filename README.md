@@ -12,10 +12,11 @@ Note: [Code](citibike_aggregate_data.ipynb) provided to aggregate monthly data, 
 - Python (> 1 month data)
 - Pandas (> 1 month data)
 
-## Link to Public Workbook
+## Link to Tableau Public Workbook
 
 [Jersey City CitiBike Rentals Feb 2020](https://public.tableau.com/profile/julia.o.brien#!/vizhome/CitiBikeRentals-JC_Feb2020/JerseyCityCitiBikeRentalsFeb2020?publish=yes)
 
+## Some Images from Tableau Workbook
 
 ![](images/jcmap.png)
 
