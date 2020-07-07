@@ -14,5 +14,7 @@ Note: [Code](citibike_aggregate_data.ipynb) provided to aggregate monthly data, 
 
 ## Link to Public Workbook
 
-https://public.tableau.com/profile/julia.o.brien#!/vizhome/CitiBikeRentals-JC_Feb2020/JerseyCityCitiBikeRentalsFeb2020?publish=yes
+[Jersey City CitiBike Rentals Feb 2020](https://public.tableau.com/profile/julia.o.brien#!/vizhome/CitiBikeRentals-JC_Feb2020/JerseyCityCitiBikeRentalsFeb2020?publish=yes)
+
+
 
