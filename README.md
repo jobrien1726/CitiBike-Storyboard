@@ -9,8 +9,8 @@ Note: [Code](citibike_aggregate_data.ipynb) provided to aggregate monthly data, 
 ## Technologies Used
 
 - Tableau
-- Python (> 1 month data)
-- Pandas (> 1 month data)
+- Python (if > 1 month data)
+- Pandas (if > 1 month data)
 
 ## Link to Tableau Public Workbook
 
