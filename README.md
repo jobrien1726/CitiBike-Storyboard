@@ -2,12 +2,10 @@
 
 ## Project Overview
 
-The goal of this project was to use Tableau to visualize CitiBike data 
+The goal of this project was to create a public workbook in Tableau with a storyboard that visualizes [CitiBike data](data/citibike_JC_feb2020.csv) from Jersey City, NJ, for the month of February 2020. 
 
 ## Technologies Used
 
-- Python
-- Pandas
 - Tableau
 
 
