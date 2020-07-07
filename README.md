@@ -19,8 +19,8 @@ Note: [Code](citibike_aggregate_data.ipynb) provided to aggregate monthly data, 
 
 ![](images/jcmap.png)
 
-![](images/totalrides.png
+![](images/totalrides.png)
 
-![](images/avgtrip.png
+![](images/outlier.png)
 
-![](images/totalrides.png
+![](images/avgtrip.png)
